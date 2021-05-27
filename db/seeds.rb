@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Coach.create(name: 'Mike Ditka')
+Teacher.create(name: 'Ben Stein')
+Post.create(topic: 'grouping', content: 'You did a great job using Kagan strategies to create groups.  How do you shift from groups of 2 to groups of 4?')
